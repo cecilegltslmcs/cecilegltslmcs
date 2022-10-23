@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Data Engineer from France</h3>
 
 - 🔭 I’m currently working as **a Data Engineer**
+- 📄 Know about my experiences **I have diploma in Data Analysis, Data Engineering, Data Science & Machine Learning**
 
-- ⚡ Fun fact **Before becoming Data Engineer, I was a researcher in Behavioural Neuroscience**
+- ⚡ Fun fact **Before becoming Data Engineer, I was a researcher in Behavioural Neuroscience and studied psychology**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
