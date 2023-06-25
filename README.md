@@ -11,7 +11,6 @@
 <a href="https://twitter.com/ccile_guillot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccile_guillot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cecile-guillot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cecile-guillot/" height="30" width="40" /></a>
 <a href="https://kaggle.com/cecileguillot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cecileguillot" height="30" width="40" /></a>
-<a href="https://discord.gg/Sylv#8131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sylv#8131" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
