@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cécile Guillot</h1>
 <h3 align="center">A passionate Data Engineer from France</h3>
 
-- 🔭 I’m currently working as **a Data Engineer**
+- 🔭 I’m currently working as **a Data Engineer & Software Engineer**
 - 📄 Know about my experiences **I have diploma in Data Analysis, Data Engineering, Data Science & Machine Learning**
 
 - ⚡ Fun fact **Before becoming Data Engineer, I was a researcher in Behavioural Neuroscience and studied psychology**
