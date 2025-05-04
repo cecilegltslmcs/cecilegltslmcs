@@ -3,7 +3,7 @@
 
 - 🔭 Exploring site reliability engineering and backend development — more to come soon.
 - 🧠 I used to be a behavioural neuroscience researcher, then moved into machine learning and data engineering — now diving into dev/SRE.
-- 🛠️ Technologies I use (or will soon): **Python, Java, Bash, Go, Perl, Docker, Kubernetes, Ansible, Prometheus, Grafana, Vagrant**
+- 🛠️ Technologies I use (or will soon): **Python, Java, Bash, Go, Docker/Podman, Kubernetes, Ansible, Prometheus, Grafana, Vagrant**
 - 🗂️ I also write a lot — notes, tech watch, worldbuilding — most of it stays private (for now 😉)
 
 - ⚡ **Fun fact**: I probably debug systems the same way I used to study brains
@@ -19,7 +19,6 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.perl.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
 
   <!-- DevOps / SRE -->
