@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cécile Guillot</h1>
+<h1 align="center">Hi 👋, I'm Cécile</h1>
 <h3 align="center">From neuroscience to SRE — always learning, always building</h3>
 
 - 🔭 Exploring site reliability engineering and backend development — more to come soon.
